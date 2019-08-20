@@ -1,0 +1,7 @@
+print("Ciao Mondo!")
+print("Come va?")
+print("Mi piace scrivere questo")
+print("Questo è divertente.")
+print('Yay! Stampa.')
+print("Preferirei che non lo faceste.")
+print('Ho "detto" di non toccarlo.')
