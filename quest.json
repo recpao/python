@@ -1,0 +1,21 @@
+{
+    "quest": [
+        {
+            "titolo": "Prigioniero!",
+            "descrizione": "Puoi veramente fare poco affidamento sulla tua fortuna. Appena di ritorno da una missione nelle Montagne Zanna di Drago, hai abbassato la guardia pensando di essere al sicuro sull’altipiano. Maledicendoti, cadi grossolanamente in un’imboscata tesa dagli orchi, che ti hanno colto completamente di sorpresa, catturandoti e trascinandoti in un dungeon che\nè ora la loro tana.\nFortunatamente sei riuscito a fuggire dalla tua cella e ora devi trovare la\nvia d’uscita quanto prima, senza dimenticare di recuperare prima il tuo\nequipaggiamento.",
+            "regole_speciali": "Comincerai senza alcun equipaggiamento. La prima area vuota che troverai (Esempio: ottenendo 6 sulla Tabella delle Aree) conterrà il tuo equipaggiamento che potrai utilizzare d’ora in poi.",
+            "stanze": "12",
+            "area_finale": "La quest non ha un’Area Finale. Dopo 12 aree potrai terminarla o continuare finché non troverai il tuo equipaggiamento.",
+            "mostri": "Orchi"
+        },
+        {
+            "titolo": "L’idolo di Pietrascura",
+            "descrizione": "Prima di morire, un avventuriero ti ha rivelato la vera storia della sua ultima missione. Si trovava nella foresta di Teschiorosso per combattere dei goblin, quando scoprì la statuetta di una divinità goblin. L’idolo era fatto di Pietrascura, un minerale corrotto che trasuda un oscuro potere magico in\ngrado di corrompere chiunque vi sia esposto per lungo tempo.\nTi corre immediatamente un brivido lungo la schiena quando realizzi che\nl’idolo potrebbe corrompere tutti gli esseri viventi in un raggio considerevole\nse solo fosse spostato da qualcuno con intenti malevoli. Questo è un pericolo\ntroppo grande da correre e tu stesso giuri all’avventuriero morente che\ndistruggerai l’idolo prima che i goblin lo possano usare per i loro malvagi\nscopi.",
+            "regole_speciali": "Nessuno",
+            "stanze": "13",
+            "area_finale": "L’Area Finale della quest coinvolge l’Idolo di Pietrascura. Dovrai\ndistruggerlo per completare la tua missione e per farlo dovrai demolirlo\nattaccandolo, considerando queste caratteristiche: Armatura 5+ e Resistenza\n4. Ogni attacco contro l’idolo ridurrà la tua Resistenza di 1. Alternativamente,\npotrai usare la magia: lancia quindi i tuoi dadi di Magia e con un 6 l’idolo\nverrà distrutto. Ogni volta che fallirai, perderai un punto di Resistenza.",
+            "mostri": "Goblin"
+        }
+
+    ]
+}
